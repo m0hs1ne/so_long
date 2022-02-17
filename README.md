@@ -32,7 +32,7 @@ Use ``WASD`` or ``Arrows`` to move. You move one tile at a time. enemy will kill
 
 You can exit the game with ``esc``.
 
-![gif_02](https://github.com/m0hs1ne/so_long/blob/main/so_Long-gif.gif)
+![gif_02](https://github.com/m0hs1ne/so_long/blob/main/so_.gif)
 
 ###### Execute the game
 To play you can use some of the makefile rules, or execute the file _so_long.out_ if it's been generated, passing the map you want to play as parameter (``./so_long mapFileToPlay.ber``). The make file has the following rules:
