@@ -1,4 +1,4 @@
-# so_long | slucas-s
+# so_long
 
 Prior to starting with this project, it’s better to learn about the miniLibX, the simple graphic library that we use at 42.
 
