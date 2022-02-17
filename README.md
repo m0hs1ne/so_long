@@ -4,7 +4,7 @@ Prior to starting with this project, it’s better to learn about the miniLibX, 
 
 The aim of this project is to create a small 2D game where players have to pick up all collectables and go to the exit making as few moves as possible. In my case, the game is about a muscular gardener cleaning up her garden from weeds. While ¿alien? creatures stand in her way. Because they are on mars. Or something.
 
-![gif_01](https://drive.google.com/uc?export=view&id=1lHOYdkrSTlfExwcKfGCXHiamJJIL0q9h)
+![gif_01](https://github.com/m0hs1ne/so_long/blob/main/so_Long-gif.gif)
 
 ### How to play
 ---
