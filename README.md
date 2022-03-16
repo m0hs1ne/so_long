@@ -41,7 +41,7 @@ To play you can use some of the makefile rules, or execute the file _so_long.out
 | - | - |
 | ``make`` | Generates _so_long.out_ and an object file for each .c. |
 | ``make clean`` | Deletes all object files. |
-| ``make fclean`` | Deletes the object files and the _so_long.out_. |
+| ``make fclean`` | Deletes the object files and the _so_long_. |
 | ``make re`` | makes ``fclean`` and ``make`` again. |
 | `` make play`` | Allows you to play some of the maps I designed in a defined succession. To play the next map just press ``esc``. |
 
